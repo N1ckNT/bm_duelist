@@ -13,8 +13,7 @@
   "Metadata": {
     "ProjectTemplate": null,
     "GameSupport": [
-      "facepunch.boomer",
-      "facepunch.sandbox"
+      "facepunch.boomer"
     ]
   }
 }
