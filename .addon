@@ -1,0 +1,20 @@
+{
+  "Title": "Duelist",
+  "Type": "map",
+  "Org": "nano",
+  "Ident": "bm_duelist",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {
+    "ProjectTemplate": null,
+    "GameSupport": [
+      "facepunch.boomer",
+      "facepunch.sandbox"
+    ]
+  }
+}
